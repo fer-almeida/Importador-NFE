@@ -1,0 +1,26 @@
+\\vmware-host\Shared Folders\Desktop\CHG Database\CHG Database\bin\Release\CHG Database.exe.config
+\\vmware-host\Shared Folders\Desktop\CHG Database\CHG Database\bin\Release\CHG Database.exe
+\\vmware-host\Shared Folders\Desktop\CHG Database\CHG Database\bin\Release\CHG Database.pdb
+\\vmware-host\Shared Folders\Desktop\CHG Database\CHG Database\bin\Release\CHG Database.xml
+\\vmware-host\Shared Folders\Desktop\CHG Database\CHG Database\obj\Release\ImportadorNFE.vbproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\CHG Database\CHG Database\obj\Release\CHG Database.exe
+\\vmware-host\Shared Folders\Desktop\CHG Database\CHG Database\obj\Release\CHG Database.xml
+\\vmware-host\Shared Folders\Desktop\CHG Database\CHG Database\obj\Release\CHG Database.pdb
+\\vmware-host\Shared Folders\Desktop\CHG Database\CHG Database\obj\Release\Importador_NFE.frm_ImportarNFe.resources
+\\vmware-host\Shared Folders\Desktop\CHG Database\CHG Database\obj\Release\Importador_NFE.frm_NFeImportada.resources
+\\vmware-host\Shared Folders\Desktop\CHG Database\CHG Database\obj\Release\Importador_NFE.Resources.resources
+\\vmware-host\Shared Folders\Desktop\CHG Database\Importador NFE\bin\Release\CHG Database.exe.config
+\\vmware-host\Shared Folders\Desktop\CHG Database\Importador NFE\obj\Release\CHG Database.exe
+\\vmware-host\Shared Folders\Desktop\CHG Database\Importador NFE\obj\Release\CHG Database.xml
+\\vmware-host\Shared Folders\Desktop\CHG Database\Importador NFE\obj\Release\CHG Database.pdb
+\\vmware-host\Shared Folders\Desktop\CHG Database\Importador NFE\bin\Release\CHG Database.exe
+\\vmware-host\Shared Folders\Desktop\CHG Database\Importador NFE\bin\Release\CHG Database.pdb
+\\vmware-host\Shared Folders\Desktop\CHG Database\Importador NFE\bin\Release\CHG Database.xml
+\\vmware-host\Shared Folders\Desktop\CHG Database\Importador NFE\obj\Release\Importador_NFE.frm_ImportarNFe.resources
+\\vmware-host\Shared Folders\Desktop\CHG Database\Importador NFE\obj\Release\Importador_NFE.frm_NFeImportada.resources
+\\vmware-host\Shared Folders\Desktop\CHG Database\Importador NFE\obj\Release\Importador_NFE.Resources.resources
+\\vmware-host\Shared Folders\Desktop\CHG Database\Importador NFE\obj\Release\ImportadorNFE.vbproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\Importador NFE\Importador NFE\bin\Release\CHG Database.exe.config
+\\vmware-host\Shared Folders\Desktop\Importador NFE\Importador NFE\obj\Release\CHG Database.exe
+\\vmware-host\Shared Folders\Desktop\Importador NFE\Importador NFE\obj\Release\CHG Database.xml
+\\vmware-host\Shared Folders\Desktop\Importador NFE\Importador NFE\obj\Release\CHG Database.pdb

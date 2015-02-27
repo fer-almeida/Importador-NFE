@@ -1,0 +1,41 @@
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\CHG Database\CHG Database\bin\Release\CHG Database.exe.config
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\CHG Database\CHG Database\bin\Release\CHG Database.exe
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\CHG Database\CHG Database\bin\Release\CHG Database.pdb
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\CHG Database\CHG Database\bin\Release\CHG Database.xml
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\CHG Database\CHG Database\obj\Release\CHG_Database.frm_ImportarNFe.resources
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\CHG Database\CHG Database\obj\Release\CHG_Database.frm_NFeImportada.resources
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\CHG Database\CHG Database\obj\Release\CHG_Database.Resources.resources
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\CHG Database\CHG Database\obj\Release\CHG Database.vbproj.GenerateResource.Cache
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\CHG Database\CHG Database\obj\Release\CHG Database.exe
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\CHG Database\CHG Database\obj\Release\CHG Database.xml
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\CHG Database\CHG Database\obj\Release\CHG Database.pdb
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\CHG Database\CHG Database\obj\Release\CHG_Database.frm_Principal.resources
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\CHG Database\CHG Database\obj\Release\CHG_Database.frm_SelecionarCliente.resources
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\CHG Database\CHG Database\obj\Release\CHG_Database.frm_NovoCliente.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2012\Projects\CHG Database\CHG Database\obj\Release\CHG_Database.frm_Itens.resources
+Z:\Documents\Visual Studio 2012\Projects\CHG Database\CHG Database\bin\Release\CHG Database.exe.config
+Z:\Documents\Visual Studio 2012\Projects\CHG Database\CHG Database\obj\Release\CHG Database.exe
+Z:\Documents\Visual Studio 2012\Projects\CHG Database\CHG Database\obj\Release\CHG Database.xml
+Z:\Documents\Visual Studio 2012\Projects\CHG Database\CHG Database\obj\Release\CHG Database.pdb
+Z:\Documents\Visual Studio 2012\Projects\CHG Database\CHG Database\bin\Release\CHG Database.exe
+Z:\Documents\Visual Studio 2012\Projects\CHG Database\CHG Database\bin\Release\CHG Database.pdb
+Z:\Documents\Visual Studio 2012\Projects\CHG Database\CHG Database\bin\Release\CHG Database.xml
+Z:\Documents\Visual Studio 2012\Projects\CHG Database\CHG Database\obj\Release\CHG_Database.frm_Itens.resources
+Z:\Documents\Visual Studio 2012\Projects\CHG Database\CHG Database\obj\Release\CHG_Database.frm_ImportarNFe.resources
+Z:\Documents\Visual Studio 2012\Projects\CHG Database\CHG Database\obj\Release\CHG_Database.frm_NFeImportada.resources
+Z:\Documents\Visual Studio 2012\Projects\CHG Database\CHG Database\obj\Release\CHG_Database.frm_NovoCliente.resources
+Z:\Documents\Visual Studio 2012\Projects\CHG Database\CHG Database\obj\Release\CHG_Database.frm_Principal.resources
+Z:\Documents\Visual Studio 2012\Projects\CHG Database\CHG Database\obj\Release\CHG_Database.frm_SelecionarCliente.resources
+Z:\Documents\Visual Studio 2012\Projects\CHG Database\CHG Database\obj\Release\CHG_Database.Resources.resources
+Z:\Documents\Visual Studio 2012\Projects\CHG Database\CHG Database\obj\Release\CHG Database.vbproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\CHG Database\CHG Database\bin\Release\CHG Database.exe.config
+\\vmware-host\Shared Folders\Desktop\CHG Database\CHG Database\obj\Release\CHG Database.exe
+\\vmware-host\Shared Folders\Desktop\CHG Database\CHG Database\obj\Release\CHG Database.xml
+\\vmware-host\Shared Folders\Desktop\CHG Database\CHG Database\obj\Release\CHG Database.pdb
+\\vmware-host\Shared Folders\Desktop\CHG Database\CHG Database\bin\Release\CHG Database.exe
+\\vmware-host\Shared Folders\Desktop\CHG Database\CHG Database\bin\Release\CHG Database.pdb
+\\vmware-host\Shared Folders\Desktop\CHG Database\CHG Database\bin\Release\CHG Database.xml
+\\vmware-host\Shared Folders\Desktop\CHG Database\CHG Database\obj\Release\CHG_Database.frm_ImportarNFe.resources
+\\vmware-host\Shared Folders\Desktop\CHG Database\CHG Database\obj\Release\CHG_Database.frm_NFeImportada.resources
+\\vmware-host\Shared Folders\Desktop\CHG Database\CHG Database\obj\Release\CHG_Database.Resources.resources
+\\vmware-host\Shared Folders\Desktop\CHG Database\CHG Database\obj\Release\CHG Database.vbproj.GenerateResource.Cache
